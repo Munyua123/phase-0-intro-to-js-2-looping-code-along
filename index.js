@@ -2,7 +2,6 @@
 const names = ["Guadalupe", "Ollie", "Aki"]
 const event = "surprise"
 
-
 const thankYouMessage = []
 function writeCards(names, event) {
 for (let i=0; i < names.length; i++){
